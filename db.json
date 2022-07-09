@@ -1,4 +1,5 @@
-[
+{
+ people: [
   {
     "_id": 0,
     "name": "Finch Bartlett",
@@ -8959,4 +8960,5 @@
     "quantity": 40,
     "price": 562.92
   }
-]
+] 
+}
